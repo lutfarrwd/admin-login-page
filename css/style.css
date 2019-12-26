@@ -1,0 +1,48 @@
+h1{padding: 0px;
+	margin: 0px;
+
+
+}
+
+
+p{padding: 0px;
+	margin: 0px;
+
+}
+
+
+body{
+
+	background: url(../img/pe.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.container{
+
+width: 600px;
+margin: 10% auto;  
+
+}
+
+.login-section{
+	background-color: blue;
+}
+
+
+
+.login-section img{
+
+}
+
+.login-section h2{
+	 
+}
+
+.form-control{
+
+}
+
+.btn{
+
+}
